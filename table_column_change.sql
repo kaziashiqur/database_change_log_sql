@@ -1,6 +1,6 @@
 -- Change these variables
-SET @db1 = 'viserhotel_old';
-SET @db2 = 'ashiqur_viserhotel';
+SET @db1 = 'old_database';
+SET @db2 = 'new_database';
 SET @table = 'amenities';
 
 -- Compare columns in db1 vs db2

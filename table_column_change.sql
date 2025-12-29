@@ -1,7 +1,7 @@
 -- Change these variables
 SET @db1 = 'old_database';
 SET @db2 = 'new_database';
-SET @table = 'amenities';
+SET @table = 'table_name';
 
 -- Compare columns in db1 vs db2
 (
